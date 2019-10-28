@@ -43,12 +43,7 @@ public class Eagle extends Bird implements Fly {
         return this.altitude; 
   
     }
-    @Override
-    public void glide()
-    {
-    	System.out.println("It glides into the air.");
-    }
-    
+  
    
     /**
      * fly descend
